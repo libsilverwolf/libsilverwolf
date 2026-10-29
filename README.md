@@ -16,6 +16,8 @@ AI full<!-- fuck -->-stack Developer
 |Golang|Gin / Gorm|
 |Typescript|NextJS / Vite / Tanstack Router|
 
+Others: MySQL/Postgres/Kafka... Every piece of middleware you can imagine a code monkey should know.
+
 ## Tools ⛏️
 
 - VSCode
